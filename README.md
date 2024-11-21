@@ -1,2 +1,2 @@
 # Team23CPE491
-All code and files related to the Dynamic Doodling Designers senior design project at UK 2024 
+All code and 3d print files related to the Dynamic Doodling Designers (Team 23) senior design project at UK 2024.
